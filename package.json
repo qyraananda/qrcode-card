@@ -1,0 +1,23 @@
+{
+  "name": "visualcard",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "canvas": "^2.10.2",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.8",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.6.1",
+    "morgan": "~1.9.1",
+    "mysql2": "^2.3.3",
+    "mysql2-timeout-additions": "^1.1.2",
+    "qrcode": "^1.5.1",
+    "qrcode-with-logos": "^1.0.3"
+  }
+}
